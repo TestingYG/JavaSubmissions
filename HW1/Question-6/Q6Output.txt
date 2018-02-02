@@ -1,0 +1,20 @@
+Someones-Air:question-6 Ying$ java Circle
+
+Enter The radius of the Circle and the Center coordinates of circle 1: 2 0 0
+Enter The radius of the Circle and the Center coordinates of circle 2: 2 0 5
+The Circles are far apart.
+
+Someones-Air:question-6 Ying$ java Circle
+Enter The radius of the Circle and the Center coordinates of circle 1: 2 0 0
+Enter The radius of the Circle and the Center coordinates of circle 2: 1 0 0
+The circles are comeplety in each other.
+
+Someones-Air:question-6 Ying$ java Circle
+Enter The radius of the Circle and the Center coordinates of circle 1: 2 0 0
+Enter The radius of the Circle and the Center coordinates of circle 2: 2 0 4
+The Circles are touching.
+
+Someones-Air:question-6 Ying$ java Circle
+Enter The radius of the Circle and the Center coordinates of circle 1: 2 0 0
+Enter The radius of the Circle and the Center coordinates of circle 2: 2 0 2
+The Circles are overlapping.

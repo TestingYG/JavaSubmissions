@@ -1,0 +1,11 @@
+Someones-Air:question-4 Ying$ java CommandLineRedirect < Numbers.txt
+1
+2
+3
+4
+5
+7
+45
+67
+43
+23

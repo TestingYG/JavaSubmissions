@@ -1,0 +1,22 @@
+Someones-Air:question-2 Ying$ java Area
+Enter The radius of the Circle: 5
+The area of the Circle is: 78.53981633974483.
+Enter The radius of the Circle: 3
+The area of the Circle is: 28.274333882308138.
+Enter The radius of the Circle: 7
+The area of the Circle is: 153.93804002589985.
+Enter The radius of the Circle: 3
+The area of the Circle is: 28.274333882308138.
+Enter The radius of the Circle: 8
+The area of the Circle is: 201.06192982974676.
+Enter The radius of the Circle: 0
+The area of the Circle is: 0.0.
+Enter The radius of the Circle: 3
+The area of the Circle is: 28.274333882308138.
+Enter The radius of the Circle: 2
+The area of the Circle is: 12.566370614359172.
+Enter The radius of the Circle: 6
+The area of the Circle is: 113.09733552923255.
+Enter The radius of the Circle: 8
+The area of the Circle is: 201.06192982974676.
+Enter The radius of the Circle: Someones-Air:question-2 Ying$

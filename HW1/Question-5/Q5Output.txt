@@ -1,0 +1,20 @@
+Someones-Air:question-5 Ying$ java TwoDPoint
+
+Enter the X and Y Value Coordiantes for side A: 0 1
+Enter the X and Y Value Coordiantes for side B: 1 -1
+Enter the X and Y  Value Coordiantes for side C: -1 0
+This is a real Triangle
+
+Someones-Air:question-5 Ying$ java TwoDPoint
+Enter the X and Y Value Coordiantes for side A: -1 2
+Enter the X and Y Value Coordiantes for side B: 3 -3
+Enter the X and Y  Value Coordiantes for side C: -2 -2
+This is a real Triangle
+
+Someones-Air:question-5 Ying$ java TwoDPoint
+Enter the X and Y Value Coordiantes for side A: 0 1
+Enter the X and Y Value Coordiantes for side B: 2 3
+Enter the X and Y  Value Coordiantes for side C: 4 5
+This is not a Triangle
+
+Someones-Air:question-5 Ying$

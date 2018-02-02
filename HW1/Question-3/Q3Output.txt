@@ -1,0 +1,14 @@
+Someones-Air:question-3 Ying$ java NumToMonths
+The number randomly generated is 3. This month is MARCH.
+
+Someones-Air:question-3 Ying$ java NumToMonths
+The number randomly generated is 7. This month is JULY.
+
+Someones-Air:question-3 Ying$ java NumToMonths
+The number randomly generated is 4. This month is APRIL.
+
+Someones-Air:question-3 Ying$ java NumToMonths
+The number randomly generated is 1. This month is JANUARY.
+
+Someones-Air:question-3 Ying$ java NumToMonths
+The number randomly generated is 5. This month is MAY.
