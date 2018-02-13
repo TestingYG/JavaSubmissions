@@ -1,0 +1,14 @@
+Guo, Yinghao
+
+These two peices of code has diffrent outputs its because of when the >>> or the unsign shift is called. which
+adds a zero in front of the binary number. In the first part x >>> i is being called inside the
+integer.tobinary. This prints out the interget x shifted to the right by i without modifying interger x. x
+stays the same throughout the loop, That is why we get the upside down right triangle effect. the reason you
+the repeat at around loop # 32 is because of the integer which is 32 bits. When it goes to loop 33 it passed
+the 32 bit mark so it restarts. 
+
+the second part of the code it prints out the integer x in binary first, then the call x = x >>>i modifies the
+binary of integer x by shifting to the right , then store it back into x then continue the loop. that is why
+the outputs are differnt.
+
+https://stackoverflow.com/questions/13387365/what-do-or-in-java-mean

@@ -1,0 +1,21 @@
+Someones-MacBook-Air:question-3 Ying$ Javac Palindrome.java
+Someones-MacBook-Air:question-3 Ying$ java Palindrome
+Enter a word to check for palindrome: Chicken
+This word is not a palindrome.
+
+Someones-MacBook-Air:question-3 Ying$ Javac Palindrome.java
+Someones-MacBook-Air:question-3 Ying$ java Palindrome
+Enter a word to check for palindrome: Glasses
+This word is not a palindrome.
+
+Someones-MacBook-Air:question-3 Ying$ Javac Palindrome.java
+Someones-MacBook-Air:question-3 Ying$ java Palindrome
+Enter a word to check for palindrome: madamimadam
+This word is a palindrome.
+
+Someones-MacBook-Air:question-3 Ying$ Javac Palindrome.java
+Someones-MacBook-Air:question-3 Ying$ java Palindrome
+Enter a word to check for palindrome: civic
+This word is a palindrome.
+
+Someones-MacBook-Air:question-3 Ying$

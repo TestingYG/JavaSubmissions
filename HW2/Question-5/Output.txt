@@ -1,0 +1,6 @@
+Someones-MacBook-Air:question-5 Ying$ java ScannerDlim
+Enter 4 Integers serperted by a comma: 1,2,3,4,
+1
+2
+3
+4

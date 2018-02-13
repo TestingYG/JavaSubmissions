@@ -1,0 +1,8 @@
+Someones-Air:question-1 Ying$ javac Pyramid.java
+Someones-Air:question-1 Ying$ java Pyramid
+Enter how tall the pyramid should be: 5
+        1
+      1 2 1
+    1 2 3 2 1
+  1 2 3 4 3 2 1
+1 2 3 4 5 4 3 2 1

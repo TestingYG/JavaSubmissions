@@ -1,0 +1,5 @@
+Guo, Yinghao
+
+we set the delmiter to "" from " ". the blank space will tokenlize everything with a space in between
+while "" or no space toenlize each character. For example if i use " " as my delimter and my input is "I Love",
+i will get "I Love" back. If i use "" and my input is I love i will get "I L o v e".
