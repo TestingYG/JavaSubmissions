@@ -1,0 +1,18 @@
+Someones-Air:hw3 Ying$ javac Main.java MyString.java
+Someones-Air:hw3 Ying$ java Main MyString
+Index Test (6) of string 2 is o
+Length of string test of string one two and three: 5,16,19
+substring of string 3 from 4 - 14 is WORK is finsh
+Lowercase conversion: homework is finshed
+Uppercase Conversion HOMEWORK IS FINSHED
+Comparing Hello and Profssor Bukhari results in 11
+Comparing Profssor Bukhari and HOMEWORK is finshed results in 3
+Comparing HOMEWORK is finshed and Hello results in -14
+Comparing Hello and Hello results in 0
+This is a string: Hello
+This is a string: Profssor Bukhari
+The value of int -45678 is -45678
+The value of int 123456789 is 123456789
+Hello
+Profssor Bukhari
+HOMEWORK is finshed
