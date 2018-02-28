@@ -1,0 +1,49 @@
+Someones-Air:hw4 Ying$ java TwoDArray
+Enter how many rows you want: 3
+Enter how many columns you want: 3
+Enter the data for row 1 column 1: A
+Enter the data for row 1 column 2: b
+Enter the data for row 1 column 3: C
+Enter how many columns you want: 3
+Enter the data for row 2 column 1: 1
+Enter the data for row 2 column 2: 2
+Enter the data for row 2 column 3: 3
+Enter how many columns you want: 3
+Enter the data for row 3 column 1: 78
+Enter the data for row 3 column 2: AB
+Enter the data for row 3 column 3: !
+total number of possible combinations 27
+
+This is your 2D array
+A b C
+1 2 3
+78 AB !
+
+These are your combinations:
+A178
+b178
+C178
+A278
+b278
+C278
+A378
+b378
+C378
+A1AB
+b1AB
+C1AB
+A2AB
+b2AB
+C2AB
+A3AB
+b3AB
+C3AB
+A1!
+b1!
+C1!
+A2!
+b2!
+C2!
+A3!
+b3!
+C3!
