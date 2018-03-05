@@ -11,8 +11,8 @@ public class Speed2{
     double radius = 1;
 	long max = 4000000000L; 
 	long inCircle = 0L;
-	Long inSquare = 0L;
-	Double pi = 0.0;
+	long inSquare = 0L;
+	double pi = 0.0;
 	Point origin = new Point();
 
 	//randomly gerneates points to see if they are in the circle or outside of the circle.
