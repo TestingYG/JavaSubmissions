@@ -1,3 +1,6 @@
+//Author Guo, Yinghao
+//VERSION 1.0
+
 import java.math.BigDecimal;
 import java.util.Scanner;
 
