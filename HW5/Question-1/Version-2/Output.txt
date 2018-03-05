@@ -1,0 +1,5 @@
+There are 4000000000 points created.
+The number of points in the circle is 3141597630.
+The number of points in the square is 858402370.
+Caluclated pi is 3.14159763.
+312314
