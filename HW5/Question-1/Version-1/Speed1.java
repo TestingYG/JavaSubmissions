@@ -4,7 +4,7 @@
 import java.math.BigDecimal;
 import java.util.Scanner;
 
-public class Speed{
+public class Speed1{
 
   public static void main (String[] args ){
     long before = System.currentTimeMillis();
