@@ -1,0 +1,6 @@
+C:\Users\Ying\Desktop>java Speed3
+There are 4000000000 points created.
+The number of points in the circle is 3141612779.
+The number of points in the square is 858387221.
+Caluclated pi is 3.141612779.
+141210

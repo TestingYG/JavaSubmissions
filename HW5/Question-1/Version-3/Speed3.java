@@ -1,9 +1,9 @@
 //author Guo, Yinghao
-//Version 2.0
-//1.Change data type to long.
-//2.Got rid of inSquare incriment;
+//Version 3.0
+//1.got rid of the point class
+//2.changed the for loop. and incooperate the equation of the cricle rather then square.
 
-public class Speed2{
+public class Speed3{
 
   public static void main (String[] args ){
     long before = System.currentTimeMillis();
@@ -13,12 +13,12 @@ public class Speed2{
 	long inCircle = 0L;
 	Long inSquare = 0L;
 	Double pi = 0.0;
-	Point origin = new Point();
 
 	//randomly gerneates points to see if they are in the circle or outside of the circle.
 	for (long count = 0L; count < max; count++){
-	   Point xyPoint = new Point(Math.random(), Math.random());
-	   if((Math.sqrt(Math.pow(xyPoint.x - origin.y,2) +  Math.pow(xyPoint.y - origin.y,2))*radius) <= radius)
+	   double x = Math.random();
+	   double y = Math.random();
+	   if((x*x)+(y*y)<= radius)
 			inCircle++;
     }
 
@@ -39,21 +39,3 @@ public class Speed2{
   }
 }
 
-  //this class creates the x and y points. 
-class Point{
-  double x;
-  double y;
-
-  public Point(double x, double y){
-    this.x = x;
-    this.y = y;
-  }
-
-  public Point(){
-    this.x = 0;
-    this.y = 0;
-  }
-}
-
-//source
-//1.https://stackoverflow.com/questions/31748028/long-vs-biginteger
