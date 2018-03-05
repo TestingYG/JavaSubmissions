@@ -1,1 +1,34 @@
-something
+1. Dog Class
+Method Call: public String call(int k)
+This is overloading.
+
+2.Cat Class
+Method  Call: public String toString()
+This is overloading + overriding.
+
+3.
+Method Call: Error 
+This is an Error.
+
+4.
+Method Call: a method from class Object
+
+
+5.Dog Class
+Method Call: public String Call()
+This is overridding. 
+
+6.Cat Class
+Method Call: public String toString(String B)
+This is overloading.
+
+7. 
+Method Call: Error 
+This is an Error
+
+8.Pet Class
+Method Call: public String feet()
+
+9.
+Method Call Error 
+This is an Error

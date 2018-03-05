@@ -1,7 +1,7 @@
 //author Guo, Yinghao
 //Version 3.0
 //1.got rid of the point class
-//2.changed the for loop. and incooperate the equation of the cricle rather then square.
+//2.changed the for loop. and incooperate the equation of the cricle.
 
 public class Speed3{
 
@@ -38,4 +38,7 @@ public class Speed3{
 
   }
 }
+
+//source 
+//1.https://stackoverflow.com/questions/9472766/faster-than-constructor
 
