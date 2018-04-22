@@ -1,0 +1,6 @@
+if you have two sayhello methods, super does not know which one to call so you have to specify
+which sayhello you are calling from so thats why myinterface.super.sayHello() works. 
+
+source
+https://zeroturnaround.com/rebellabs/java-8-explained-default-methods/
+https://stackoverflow.com/questions/19976487/explicitly-calling-a-default-method-in-java

@@ -1,0 +1,5 @@
+The catch will catch any exection that is assignment-compatibale with the declare type.
+That means that thrownewpointer is an instance of thrwoable. Therefor catch will catch it. 
+
+https://docs.oracle.com/javase/specs/jls/se7/html/jls-14.html#jls-14.20.1
+https://stackoverflow.com/questions/26104171/will-catching-an-exception-catch-a-parent-class-of-that-exception
