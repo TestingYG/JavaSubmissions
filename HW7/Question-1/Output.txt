@@ -1,0 +1,62 @@
+C:\Users\Ying\Desktop\HW7\Question-1>java Calculator
+Enter your math probem. Use X for multiplication and E for exponent:
+( 5 + 3 ) x ( 7 - 5 ) + 1 - 2 * ( 3 / 2 e 2 )
+Exception in thread "main" QuitMashingOnYourKeyboardException: This operation is not supported!
+        at Calculator.postfixConv(calculator.java:42)
+        at Calculator.main(calculator.java:15)
+
+C:\Users\Ying\Desktop\HW7\Question-1>java Calculator
+Enter your math probem. Use X for multiplication and E for exponent:
+( 5 + 3 ) x ( 7 - 5 ) + 1 - 2 x ( 3 / 2 e 2 )
+This is your problem in postfix notation  5  3  +   7  5  - x 1 + 2   3  2  2  e /    x -
+This is your problem solved 15.5
+
+C:\Users\Ying\Desktop\HW7\Question-1>java Calculator
+Enter your math probem. Use X for multiplication and E for exponent:
+6 / 0
+This is your problem in postfix notation 6  0 /
+Exception in thread "main" ArithmeticException: You are dividing by zero!
+        at Calculator.solve(calculator.java:133)
+        at Calculator.main(calculator.java:18)
+
+C:\Users\Ying\Desktop\HW7\Question-1>java Calculator
+Enter your math probem. Use X for multiplication and E for exponent:
+A + B
+Exception in thread "main" QuitMashingOnYourKeyboardException: This operation is not supported!
+        at Calculator.postfixConv(calculator.java:49)
+        at Calculator.main(calculator.java:15)
+
+C:\Users\Ying\Desktop\HW7\Question-1>java Calculator
+Enter your math probem. Use X for multiplication and E for exponent:
+9 } 5
+Exception in thread "main" QuitMashingOnYourKeyboardException: This operation is not supported!
+        at Calculator.postfixConv(calculator.java:42)
+        at Calculator.main(calculator.java:15)
+
+C:\Users\Ying\Desktop\HW7\Question-1>java Calculator
+Enter your math probem. Use X for multiplication and E for exponent:
+2 + 3 X 6.66 / 2
+This is your problem in postfix notation 2  3  6.66 X 2 / +
+This is your problem solved 11.99
+
+C:\Users\Ying\Desktop\HW7\Question-1>java Calculator
+Enter your math probem. Use X for multiplication and E for exponent:
+2 + 3 X 6.66 / 2.9842
+This is your problem in postfix notation 2  3  6.66 X 2.9842 / +
+This is your problem solved 8.695261711681523
+
+C:\Users\Ying\Desktop\HW7\Question-1>java Calculator
+Enter your math probem. Use X for multiplication and E for exponent:
++ 5
+Exception in thread "main" AlgebraFailException: You did not enter a number!
+        at Calculator.postfixConv(calculator.java:33)
+        at Calculator.main(calculator.java:15)
+
+C:\Users\Ying\Desktop\HW7\Question-1>java Calculator
+Enter your math probem. Use X for multiplication and E for exponent:
+
+Exception in thread "main" UserIsADumbassException: You forgot to enter a number!
+        at Calculator.postfixConv(calculator.java:30)
+        at Calculator.main(calculator.java:15)
+
+C:\Users\Ying\Desktop\HW7\Question-1>

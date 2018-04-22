@@ -7,7 +7,9 @@ import java.util.Stack;
 
 public class Calculator{
   public static void main(String[] args){
-    String infix = String.join(" ", args);
+    Scanner s = new Scanner(System.in);
+    System.out.println("Enter your math probem. Use X for multiplication and E for exponent: ");
+    String infix = s.nextLine();
     String postfix = "";
 
     postfix = postfixConv(infix);
