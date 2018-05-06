@@ -1,0 +1,17 @@
+from this source people are saying that with wait, it releases the lock on the object and its resources.
+when notifyall gets call, it dont release any locks. so the program will end. the thread that calls notify has to release
+release its lock before other threads can run. pretty much notify/notifyall says get ready to run. 
+
+Running Consumer
+while loop
+Consumer: No products available to consume. Gonna wait...
+Running producer
+Producer: Making more product now.
+P1 //notify call
+Consumder: Now consuming product
+true
+C1 //notify call 
+false
+
+
+https://stackoverflow.com/questions/5999193/does-notify-notifyall-release-the-lock-being-held
