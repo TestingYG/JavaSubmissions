@@ -1,0 +1,7 @@
+C:\Users\Ying\Desktop>cd hw10
+
+C:\Users\Ying\Desktop\HW10>javac ABC.java
+
+C:\Users\Ying\Desktop\HW10>java ABC
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+C:\Users\Ying\Desktop\HW10>
